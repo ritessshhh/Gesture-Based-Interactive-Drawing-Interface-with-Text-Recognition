@@ -27,9 +27,25 @@ python3 VirtualPaint.py
 
 ## Examples
 
-1. Tool Selection and Painting
+1. Tool Selection: Select any tool with 2 fingures (Index fingure and Middle fingure).
 
-<img width="1280" alt="TestImage1" src="https://user-images.githubusercontent.com/81812754/234394544-3443d7be-87fb-43eb-9bb7-3c4b2e3e71a6.png">
+![Selection](https://user-images.githubusercontent.com/81812754/234448514-dce82c5f-2df0-428f-8c15-2111a086ae56.png)
+
+2. Drawing: Select any color paint brush tool and start drawing with your index fingure.
+
+![Drawing](https://user-images.githubusercontent.com/81812754/234448981-53e46c9b-6329-42ed-a08f-154faa29918f.png)
+
+3. Analyse Drawing: Once you are done, you can use the analyse button on top left corner for text recognition
+
+```bash
+You Wrote: R
+```
+
+4. Erasing: Select the eraser tool and erase with your index fingure.
+
+![Erasing](https://user-images.githubusercontent.com/81812754/234449063-ae485135-7ac3-4a9f-a7cb-04665172cd0f.png)
+
+
 
 
 
